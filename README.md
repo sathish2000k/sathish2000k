@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sathish
-- 👀 I’m interested in java,backend,python, web-development and data-analysis
+- 👀 I’m interested in Java, Backend, Python, Web-development and Data-analysis
 - 🌱 I’m currently learning DSA, JDBC, Spring and Log file analysis
 - 📫 reach me sathish28092k@gmail.com
 
