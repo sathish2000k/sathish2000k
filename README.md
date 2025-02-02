@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathish
-- 👀 I’m interested in Java, Backend, Python, Web-development and Data-analysis
-- 🌱 I’m currently learning DSA, JDBC, Spring and Log file analysis
+- 👀 I’m interested in Java, Go-lang, Backend, Web-development 
+- 🌱 I’m currently learning DSA, gin, JDBC, Spring and Log file analysis
 - 📫 reach me sathish28092k@gmail.com
 
 <!---
